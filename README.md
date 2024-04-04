@@ -1,2 +1,2 @@
 # nanmudhalvan-project
-face mask detection
+image generation(GAN)
