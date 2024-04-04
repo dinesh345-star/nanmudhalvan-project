@@ -1,2 +1,3 @@
 # nanmudhalvan-project
-image generation(GAN)
+face emotion detection
+
